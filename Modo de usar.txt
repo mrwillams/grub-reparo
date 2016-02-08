@@ -1,0 +1,1 @@
+Modo de usar troque o sda3 pela identificação da sua partição, onde voçê que instalar o grub.
