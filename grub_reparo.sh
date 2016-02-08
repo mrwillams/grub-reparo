@@ -1,6 +1,6 @@
 #!/bin/sh
 
-echo "$(tput setaf 3)--- Este Script Foi Criado Pelo Mr. Willams Com Intensão De Facilita o Reparo do Grub ---"
+echo "$(tput setaf 3)--- Este Script Foi Criado Pelo Mr. Willams Com Intenção De Facilitar o Reparo do Grub ---"
 
 sleep 2
 
