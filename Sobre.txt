@@ -1,0 +1,11 @@
+Grub Reparo
+
+Grub Reparo é uma ferramenta simples para reparar problemas de inicialização frequentes que poderá encontrar no Ubuntu e derivados, como quando você não consegue iniciar o Ubuntu após a instalação do Windows ou outra distribuição Linux, ou quando você não consegue iniciar o Windows após a instalação do Ubuntu, ou quando o GRUB não é mais exibida, alguns upgrade quebra GRUB, etc.  Grub Reparo permite corrigir esses problemas com um simples clique, que geralmente reinstala GRUB e restaura o acesso aos sistemas operacionais que você tinha instalado antes da emissão.
+
+
+
+
+
+
+
+Mr. Willams
